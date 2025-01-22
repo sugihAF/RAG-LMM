@@ -1,5 +1,5 @@
 
-# RAG LLM with Streamlit
+# Chat with PDF file with DeppSeek AI and Local RAG
 
 This repository demonstrates a Retrieval-Augmented Generation (RAG) application that uses a language model (LLM) to be specific it use DeepSeek AI to answer user queries based on the contents of uploaded PDF documents. The backend handles document processing, embedding creation, and query engine setup while the frontend provides an interactive chat interface built with Streamlit.
 
